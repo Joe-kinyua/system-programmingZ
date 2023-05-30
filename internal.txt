@@ -1,0 +1,32 @@
+1. **Saving and Exiting:**
+   - `Ctrl + O`: Save the current file.
+   - `Ctrl + X`: Exit Nano.
+
+2. **Navigation:**
+   - `Ctrl + F`: Move forward one page.
+   - `Ctrl + B`: Move backward one page.
+   - `Ctrl + V`: Move forward one page.
+   - `Ctrl + Y`: Move backward one line.
+   - `Ctrl + E`: Move forward one line.
+   - `Alt + \`: Go to a specific line number.
+
+3. **Editing:**
+   - `Ctrl + K`: Cut (delete) the current line.
+   - `Ctrl + U`: Uncut (paste) the previously cut line.
+   - `Ctrl + J`: Justify the current paragraph.
+   - `Alt + A`: Select a block of text.
+   - `Ctrl + 6`: Copy the selected text.
+   - `Ctrl + ]`: Indent the current line.
+
+4. **Search and Replace:**
+   - `Ctrl + W`: Search for a string.
+   - `Ctrl + R`: Replace a string.
+   - `Alt + W`: Find the next occurrence of a searched string.
+   - `Alt + R`: Replace the next occurrence of a searched string.
+   - `Alt + \`: Replace all occurrences of a searched string.
+
+5. **Miscellaneous:**
+   - `Ctrl + G`: Get help about commands.
+   - `Ctrl + _`: Go to a specific line and column.
+   - `Ctrl + C`: Display current cursor position.
+   - `Alt + G`: Go to a specific line and column.
